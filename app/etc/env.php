@@ -1,16 +1,8 @@
-<?php
-return [
-    'backend' => [
-        'frontName' => 'admin'
-    ],
-    'remote_storage' => [
-        'driver' => 'file'
-    ],
-    'queue' => [
-        'consumers_wait_for_messages' => 1
-    ],
-    'crypt' => [
-        'key' => 'ae998fbf529e5229b619f55121430a18'
+<?php return [ 'backend' => [ 'frontName' => 'admin' ], 'remote_storage' 
+    => [
+        'driver' => 'file' ], 'queue' => [ 'consumers_wait_for_messages' 
+        => 1
+    ], 'crypt' => [ 'key' => 'ae998fbf529e5229b619f55121430a18'
     ],
     'db' => [
         'table_prefix' => '',
@@ -18,8 +10,8 @@ return [
             'default' => [
                 'host' => 'mysql',
                 'dbname' => 'ecommerce',
-                'username' => 'user',
-                'password' => 'user',
+                'username' => 'phamducanh',
+                'password' => 'Ducanh@1',
                 'model' => 'mysql4',
                 'engine' => 'innodb',
                 'initStatements' => 'SET NAMES utf8;',
