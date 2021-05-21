@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<widgets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Widget:etc/widget.xsd">
+            <widget class="Widget\CustomWidget\Block\Widget\Samplewidget" id="widget_customwidget_samplewidget">
+                        <label>Custom Widget</label>
+                        <description></description>
+                       
+            </widget>
+</widgets>

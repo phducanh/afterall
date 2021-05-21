@@ -1,0 +1,13 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1620202325;s:6:"expire";i:1620288725;s:4:"tags";s:47:"626_BLOCK_HTML,626_CAT_P_132,626_CAT_P,626_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:13:{s:44:"DwhLF05oJ8Vq2SwYfSetTg1CxhWIHzMgENxKGv1MhR8=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"lAlhjK6u416goTXMZm0l7ODJLjxr6yVOHj+Je6ZSyYg=";s:6:"sha256";s:44:"Gs6YQPst+PWJA/sNK2HUTXFWh9Umxkr7thuUenTG9Ak=";s:6:"sha256";s:44:"e29Ar/irjmpvVtb6avHGUgPMw+RJUzDuNqtjfHq2tLg=";s:6:"sha256";s:44:"3CVwqskqBpLgKuC0ISuz2dTVObjpKBMFN0Be53MflyA=";s:6:"sha256";s:44:"A4cwps9ASemN8J6CT69pr3GIngOv1k1Xxl5ITbZva/E=";s:6:"sha256";s:44:"2wRGgGwU94o6UCJXrmURH2pMW/gsQeVQGeLXZyh1rHI=";s:6:"sha256";s:44:"HhpTk3IoZBeiNwoElw2LC6UMXQb3XZeoENeUSl2gQko=";s:6:"sha256";s:44:"Q/3luGk/2x1XW5adRU3Dy9qdH495vgua4YgHSdRYFM4=";s:6:"sha256";s:44:"dllm4tprGrgccXs/XEDLdivJqsb2GMH/rNEZElo7lwY=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:7:{s:44:"P8b7ME7yNUKS+rQ/R6OWfDykChE3PTELIbZ8kw6+8H8=";s:6:"sha256";s:44:"Vb8Kuv3onNsrrQKGx1TEyDaqA+zKX/PyWZ5enadbTs0=";s:6:"sha256";s:44:"pMbPPmjS15hfkbcm58IuWuBO4GePB3vEfHFXuixDbzc=";s:6:"sha256";s:44:"8HXCxQBJZ98d8x9iODW/3zXEFKTb1tKYzn3nBMLx6dg=";s:6:"sha256";s:44:"LMfxYyWXRnKZK4BUdWZbXaozxEhhwPTuhAIWjMBeuGA=";s:6:"sha256";s:44:"Z2iMDzYzQSeiw/hFiDZel8BFaFxDp0Ed9y/Jprlju7s=";s:6:"sha256";s:44:"9yVVbPGJRVZ0zYmGYEwzhIM6WYjvFNilxUtrt4b3ecQ=";s:6:"sha256";}}}s:4:"html";s:442:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="132" data-price-box="product-id-132">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-132-widget-product-grid"                data-price-amount="490000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">490.000,00 ₫</span></span>
+        </span>
+
+</div>";}

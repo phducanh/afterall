@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <carriers>
+            <express>
+                <active>0</active>
+                <model>Custom\Shipping\Model\Carrier\Express</model>
+                <name>Express</name>
+                <price>10.00</price>
+                <title>Giao hàng nhanh bằng xe ôm</title>
+                <type>I</type>
+            </express>
+        </carriers>
+    </default>
+</config>

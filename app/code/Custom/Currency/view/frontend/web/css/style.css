@@ -1,0 +1,106 @@
+button#btnRefresh {
+    background-color: #005030 !important;
+    color: #fff !important;
+    padding: 7px;
+    border-radius: 5px;
+    width: 90px;
+    border: none;
+}
+
+button#btnRefresh:hover {
+    background-color: #d1e6b6;
+    color: #000;
+}
+
+.ui-datepicker .ui-datepicker-prev span,
+.ui-datepicker .ui-datepicker-next span {
+    left: 50% !important;
+    top: 50% !important;
+}
+
+.interest {
+    background: #fff;
+    border-radius: 4px 4px;
+    padding: 15px 20px;
+}
+
+.form-tygia {
+    border: none;
+    margin: 0px;
+    margin-top: 0px !important;
+}
+
+.tbl-01 {
+    background-color: white;
+    border: 1px solid #005030;
+    float: left;
+    font-size: 100%;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.tbl-01 tr:hover {
+    background-color: #CCE4B3;
+}
+
+.tbl-01 tr .code {
+    text-align: left;
+}
+
+.tbl-01 tr.imp,
+.tbl-01 tr.imp td {
+    background-color: #CCE4B3;
+    font-weight: bold;
+    text-align: left;
+    border: 1px solid #005030;
+}
+
+.tbl-01 tr.imp:hover {
+    background-color: #aaeebb;
+}
+
+.tbl-01 th {
+    background-color: #005030;
+    color: #FFF;
+    font-weight: bold;
+    text-align: center !important;
+}
+
+.tbl-01 th,
+.tbl-01 td {
+    font-family: Arial !important;
+    font-size: 13px !important;
+    padding: 6px 4px;
+    text-align: left;
+}
+
+.tbl-01 td {
+    border-bottom: 1px dashed #005030;
+    border-right: 1px solid #005030;
+    font-family: Arial !important;
+    font-size: 13px !important;
+    vertical-align: top;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table tr:nth-child(odd){
+    background: linear-gradient(45deg, rgb(213, 214, 214), transparent)
+}
+
+.first-row > th{
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    background:rgb(128, 127, 127);
+    color: white;
+    font-family: 'Roboto Condensed';
+    font-size: 18px;
+}
